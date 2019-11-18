@@ -1,17 +1,4 @@
-public Paciente() {
-        initComponents();
-        cargarCbx();
-        FtnBuscarBD();
-    }
-     public void limpiar() 
-    {
-        txtDocumento.setText("");
-        txtNombre.setText("");
-        txtApellido.setText("");
-        txtFechadeNacimiento.setText("");
-        txtCorreo.setText("");
-        txtTelefono.setText("");
-        cbxEps.setSelectedIndex(-1);
+Hola, esta es una prueba
        
     }
     public void FtnBuscarBD2(){
